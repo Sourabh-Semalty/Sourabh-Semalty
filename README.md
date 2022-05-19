@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hi, Sourabh Semalty here
+- Computer Science Undergraduate with Strong Analytical, Programming, UI/UX & System Designing Skills. 
+- Interested in UI UX, Full Stack Web & Problem Solving.
+- I love to learn new skills, playing Computer games eager to learn new languages.
 
-<!--
-**Sourabh-Semalty/Sourabh-Semalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💪 Proficient in
+- Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, MongoDB, Socket, PHP and MySQL)
 
-Here are some ideas to get you started:
+### 🌱 Hobbies
+- Developing Software (in Real) 👨‍💻
+- Cooking Delicious Food 😋
+- love singing songs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently working on Social Research Websites
+🤝 Would Love to Collaborate on Projects related to Javascript
+
+### 📫 Get in touch 
+- semaltysourabh@gmail.com
+- https://linkedin.com/in/sourabh-semalty-a6b9b4184/
+
+### 🐱‍🏍 Portfolio
+- https://sourabh-semalty.github.io/
